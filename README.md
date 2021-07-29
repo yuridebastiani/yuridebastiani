@@ -1,6 +1,6 @@
 Desenvolvedor Web Full Stack e Mobile desde 2015.  
 Conhecimentos em:  
-- HTML  
+- HTML/SEO
 - CSS/SASS/LESS  
 - JS/JQUERY/VUEJS/INERTIAJS  
 - PHP/LARAVEL  
