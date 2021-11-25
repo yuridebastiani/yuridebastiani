@@ -8,5 +8,6 @@ Conhecimentos em:
 - BOOTSTRAP  
 - VUETIFY  
 - MySQL
+- Básico de Linux e Servidores
 
 Linkedin: https://www.linkedin.com/in/yuri-debastiani-a9a4591b5/
